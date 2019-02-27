@@ -6,7 +6,7 @@ FileIO is a simple library that allows you to store numerical objects in a fast 
 
 ```
 $ git clone https://github.com/codelovin/kaggle-utils.git
-$ cd FileIO
+$ cd kaggle-utils/FileIO
 $ python3 setup.py install
 ```
 
