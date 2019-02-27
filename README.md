@@ -17,6 +17,7 @@ FileIO is a simple library that allows you to store numerical objects in a fast 
 **Usage:**
 
 ```
+import numpy
 import fileio
 
 array = {
