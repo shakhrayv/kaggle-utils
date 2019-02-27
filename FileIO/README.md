@@ -13,6 +13,7 @@ $ python3 setup.py install
 **Usage:**
 
 ```
+import numpy
 import fileio
 
 array = {
